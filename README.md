@@ -9,9 +9,9 @@
 
 
 <div>
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=Js,ReactJS,ReactNative,sql,git" />
   </a>
 </p>
 </div>
