@@ -12,7 +12,7 @@
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,git" />
-    <img src="https://github.com/user-attachments/assets/e0d86054-d33c-4fe6-9059-f33de19234ce"/>
+    <img height="60em"src="https://github.com/user-attachments/assets/e0d86054-d33c-4fe6-9059-f33de19234ce"/>
   </a>
 </p>
 </div>
