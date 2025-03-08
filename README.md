@@ -1,4 +1,4 @@
-ct- 👋 Hi, I’m @wellitonads
+- 👋 Hi, I’m @Wellitonads
 - 👀 I’m interested in developer
 - 🌱 I’m currently learning ReactJS and ReactNative
 
