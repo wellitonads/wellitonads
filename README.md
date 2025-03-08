@@ -12,14 +12,11 @@
 <img align="center" alt="javascript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
 
 <img align="center" alt="javascript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" style="max-width: 100%;">
-
-
-  
             
 <img align="center" alt="nodejs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="max-width: 100%;">
- 
-<img align="center" alt="c++" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="max-width: 100%;">
-  
+
+</div>
+   
           
           
           
