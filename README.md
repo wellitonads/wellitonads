@@ -12,10 +12,11 @@
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,git" />
+      <img height="80em" src="https://github.com/user-attachments/assets/e0d86054-d33c-4fe6-9059-f33de19234ce" style="max-width: 100%;">
   </a>
 </p>
 </div>
-  <img height="100em" src="https://github.com/user-attachments/assets/e0d86054-d33c-4fe6-9059-f33de19234ce" style="max-width: 100%;">
+
 
           
           
