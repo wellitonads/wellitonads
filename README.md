@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wellitonads
-- 👀 I’m interested in developer
-- 🌱 I’m currently learning ReactJS and ReactNative
+-  Hi, I’m @Wellitonads
+-  I am interested in becoming a developer
+-  I'm studying ReactJS and ReactNative
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellitonads&show_icons=true&theme=tokyonight" style="max-width: 100%;">
